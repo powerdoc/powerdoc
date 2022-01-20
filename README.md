@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @powerdoc
-- 👀 I’m interested in programming .Net, JavaScript, Node.js, SQL Server, MongoDb,Postgress, Angular
-- 🌱 I’m currently learning Node.js, ASP.Net MVC, Agnular
+- 👀 I’m interested in programming with .Net, JavaScript, Node.js, SQL Server, MongoDb,Postgress, Angular
+- 🌱 I’m currently learning Node.js, ASP.Net MVC, Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.
 
